@@ -10,11 +10,6 @@
             "request": "launch",
             "stopOnEntry": true,
             "program": "${file}",
-            "debugOptions": [
-                "WaitOnAbnormalExit",
-                "WaitOnNormalExit",
-                "RedirectOutput"
-            ],
             "console": "integratedTerminal"
         }
     ]
